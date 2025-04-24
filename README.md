@@ -1,8 +1,9 @@
 # 🙋🏻 Guilherme Wille
-**Seja bem-vindo ao meu perfil!**
+**Seja bem-vindo!**
 > *"Sapere aude."* – Immanuel Kant 📖🔭
 
-Olá, eu me chamo Guilherme. Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por filmes, séries, video game, livros, HQs, mangás e ciência. Já formado em Publicidade e Propaganda, creio que as duas áreas podem se fundir para criar soluções que a sociedade precisa. Busco constantemente aprimorar meu conhecimento e compartilha-lo aqui.
+Olá, eu me chamo Guilherme, sou apaixonado por filmes, séries, video game, livros, HQs, mangás e ciência.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e já sou formado em Publicidade e Propaganda. Penso que as duas áreas podem se fundir para criar soluções que a sociedade precisa. Busco constantemente aprimorar meu conhecimento e compartilha-lo aqui.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiwico/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/guiwico)
