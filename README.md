@@ -1,5 +1,5 @@
-# 🙋🏻 Guilherme Wille
-**Seja bem-vindo!**
+# 🙋🏻 Olá, seja bem-vindo, e Obrigado pelos Peixes!
+
 > *"Sapere aude."* – Immanuel Kant 📖🔭
 
 Olá, eu me chamo Guilherme, sou apaixonado por filmes, séries, video game, livros, HQs, mangás e ciência.
